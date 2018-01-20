@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots button Inaccessible 1`] = `
+<button
+  style={
+    Object {
+      "backgroundColor": "red",
+      "color": "darkRed",
+    }
+  }
+>
+  Inaccessible button
+</button>
+`;
+
+exports[`Storyshots button as dynamic variables 1`] = `
+<div>
+  I am Arunoda Susiripala and I'm 89 years old.
+</div>
+`;
+
+exports[`Storyshots button with a button 1`] = `
+<button
+  disabled={false}
+>
+  Hello Button
+</button>
+`;
+
+exports[`Storyshots button with some emoji 1`] = `
+<button
+  onClick={[Function]}
+>
+  😀 😎 👍 💯
+</button>
+`;
+
+exports[`Storyshots button with text 1`] = `
+<button
+  onClick={[Function]}
+>
+  Hello Button
+</button>
+`;
